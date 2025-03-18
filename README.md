@@ -46,6 +46,3 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [tu-email@example.com](mailto:rs.me82003@gmail.com).
